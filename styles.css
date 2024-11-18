@@ -27,7 +27,7 @@ body {
 .btn {
 	cursor: pointer;
 	height: 100px;
-	width: 30%;
+	min-width: 40%;
 	margin: 30px;
 	font-size: 100px;
 	--b: 3px;
